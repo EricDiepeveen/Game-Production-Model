@@ -17,7 +17,7 @@ This model does not dive into the actual development activities of the game. It 
 
 As no studios are the same, not everything in this model is relevant to your organization. I encourage you to see this wiki as a starting point to develop your own model.
 
-To dive deeper into the Game Production Model and explore its intricacies, please visit our [Wiki](https://github.com/EricDiepeveen/gameproductionmodel/wiki). The wiki contains detailed information on each aspect of the model.
+To dive deeper into the Game Production Model and explore its intricacies, please visit our [Wiki]([https://github.com/EricDiepeveen/gameproductionmodel/wiki](https://github.com/EricDiepeveen/gameproductionmodel/wiki/001-Introduction)). The wiki contains detailed information on each aspect of the model.
 
 ## Contributing
 
